@@ -1,4 +1,4 @@
-# CRM with Django
+# Django CRM Application
 
 This is a CRM (Customer Relationship Management) application built using Django framework. The app provides basic CRUD (Create, Read, Update, Delete) functionality, allowing users to :
 
